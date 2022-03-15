@@ -1,4 +1,4 @@
-# Blockchain-resources
+# Blockchain resources
 Collection of resources to learn about blockchain technology.  
 Resources with a :star: in front of them are definitely worth checking out.
 
